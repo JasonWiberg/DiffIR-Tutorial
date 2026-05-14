@@ -1,7 +1,9 @@
 
 # DiffIR Tutorial: Diffusion-Based Image Restoration
 
-This repository contains a Google Colab tutorial [![Open In Colab](https://colab.research.google.com/drive/12iiyVn7V4nbyBr5S_89eJY89cG4WPuXE#scrollTo=Ztvf_81JHxqB) demonstrating how to load, run, and fine-tune the DiffIR (Diffusion Image Restoration) model for real-world super-resolution (realSR). DiffIR is designed to restore degraded images (blurry, noisy, low resolution, etc.) using diffusion-based methods. This tutorial dives deep into the source code and model architecture.
+This repository contains a Google Colab tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/drive/12iiyVn7V4nbyBr5S_89eJY89cG4WPuXE#scrollTo=Ztvf_81JHxqB
+) demonstrating how to load, run, and fine-tune the DiffIR (Diffusion Image Restoration) model for real-world super-resolution (realSR). DiffIR is designed to restore degraded images (blurry, noisy, low resolution, etc.) using diffusion-based methods. This tutorial dives deep into the source code and model architecture.
 
 <img width="1294" height="333" alt="download" src="https://github.com/user-attachments/assets/61d7d9a4-c120-4049-9f7b-fe344018aa2e" />
 
